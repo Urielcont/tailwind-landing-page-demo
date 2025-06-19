@@ -1,5 +1,6 @@
 {
   "name": "tailwind-demo",
+  "homepage": "https://github.com/Urielcont/tailwind-landing-page-demo.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
