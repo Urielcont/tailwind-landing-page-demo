@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d135e6cf.css",
-    "main.js": "/static/js/main.54dee5cf.js",
-    "static/js/787.c8ac7851.chunk.js": "/static/js/787.c8ac7851.chunk.js",
-    "static/media/mountains.jpg": "/static/media/mountains.c7317ce465b4451e9eb1.jpg",
-    "static/media/airbnb-brands.svg": "/static/media/airbnb-brands.048182c304f50af8d4fb209a004a4cb4.svg",
-    "index.html": "/index.html",
-    "main.d135e6cf.css.map": "/static/css/main.d135e6cf.css.map",
-    "main.54dee5cf.js.map": "/static/js/main.54dee5cf.js.map",
-    "787.c8ac7851.chunk.js.map": "/static/js/787.c8ac7851.chunk.js.map"
+    "main.css": "/Urielcont/tailwind-landing-page-demo.git/static/css/main.d135e6cf.css",
+    "main.js": "/Urielcont/tailwind-landing-page-demo.git/static/js/main.0132f63c.js",
+    "static/js/787.c8ac7851.chunk.js": "/Urielcont/tailwind-landing-page-demo.git/static/js/787.c8ac7851.chunk.js",
+    "static/media/mountains.jpg": "/Urielcont/tailwind-landing-page-demo.git/static/media/mountains.c7317ce465b4451e9eb1.jpg",
+    "index.html": "/Urielcont/tailwind-landing-page-demo.git/index.html",
+    "static/media/airbnb-brands.svg": "/Urielcont/tailwind-landing-page-demo.git/static/media/airbnb-brands.048182c304f50af8d4fb209a004a4cb4.svg",
+    "main.d135e6cf.css.map": "/Urielcont/tailwind-landing-page-demo.git/static/css/main.d135e6cf.css.map",
+    "main.0132f63c.js.map": "/Urielcont/tailwind-landing-page-demo.git/static/js/main.0132f63c.js.map",
+    "787.c8ac7851.chunk.js.map": "/Urielcont/tailwind-landing-page-demo.git/static/js/787.c8ac7851.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d135e6cf.css",
-    "static/js/main.54dee5cf.js"
+    "static/js/main.0132f63c.js"
   ]
 }
